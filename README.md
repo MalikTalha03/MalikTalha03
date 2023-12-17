@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha Naqshbandi</h1>
 <h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at (https://github.com/MalikTalha03)
 
-- 💬 Ask me about **Django and Python**
+- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **mtnaqshbandi2003@gmail.com**
 
