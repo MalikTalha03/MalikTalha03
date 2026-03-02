@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br> Python <br><br>👯 **I’m looking to collaborate on:**  <br>Android & Web-Dev projects<br><br>🌱 **I’m currently learning:**  <br> Python <br><br>💬 **Ask me about:**  <br>JavaScript, React, React Native, Node.js, MongoDB, Flutter, Dart and any general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br> Ruby <br><br>👯 **I’m looking to collaborate on:**  <br>Android & Web-Dev projects<br><br>🌱 **I’m currently learning:**  <br> Ruby on Rails <br><br>💬 **Ask me about:**  <br>JavaScript, Ruby, Ruby on Rails, React, React Native, Node.js, MongoDB, Flutter, Dart and any general software development questions.<br><br>
 
 
 ## 🌐 Socials:
